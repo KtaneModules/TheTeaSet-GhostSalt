@@ -1,0 +1,10 @@
+{
+  "name": "GSTeaSet-Editor",
+  "references": [
+    "GSTeaSet"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}
