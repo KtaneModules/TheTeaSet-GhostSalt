@@ -350,6 +350,8 @@ new[]{ "happy0 The real beauty of tea is the way\ndifferent flavours come togeth
             BottomText.text = GetBottomText();
             TopText.alignment = TextAnchor.MiddleCenter;
             TopText.text = "Combine three ingredients to brew\na tasty pot of tea!";
+            for (int i = 0; i < 2; i++)
+                DialoguePointers[i].color = Color.clear;
         }
     }
 
